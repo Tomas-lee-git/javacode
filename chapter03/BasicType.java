@@ -16,8 +16,8 @@ public class Basic {
 					接口(interface)；
 					数组(array)；
 			注意⚠️
-				String不是基本的数据类型，是final修饰的java类；
-				java中的基本类型一共有8个，它们分别为：1、字符类型：byte，char；2、基本整型：short，int，long；3、浮点型：float，double；4、布尔类型：boolean；
+				String 不是基本的数据类型，是 final 修饰的 java 类；
+				java 中的基本类型一共有8个，它们分别为：1、字符类型：byte，char；2、基本整型：short，int，long；3、浮点型：float，double；4、布尔类型：boolean；
 		*/
 
 	}

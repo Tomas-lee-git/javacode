@@ -18,6 +18,8 @@ public class FloatDetail {
 		float n1 = 1.1f;
 		float n2 = 2f;
 		float n3 = 3F;
+		float n111 = 1;
+		System.out.println(n111);
 
 		double n4 = 1;
 		/*

@@ -7,7 +7,7 @@ public class AutoConvert {
 				char => int => long => float => double
 		*/
 
-		// char a = true; // 错误: 不兼容的类型: boolean无法转换为char
+		// char a = true; // 错误: 不兼容的类型: boolean 无法转换为 char 
 
 	}
 }

@@ -15,7 +15,7 @@ public class AutoConvertDetail {
 		/*
 			float d1 = n1 + 1.1; 
 
-			结果：不兼容的类型: 从double转换到float可能会有损失；
+			结果：不兼容的类型: 从 double 转换到 float 可能会有损失；
 
 			分析：
 				1. 1.1 是浮点数，默认是 double 类型是8个字节；
@@ -65,7 +65,7 @@ public class AutoConvertDetail {
 		int n4 = b2 + c2;
 		int n5 = s1 + c2;
 
-		// byte b3 = b1 + b2; //错误: 不兼容的类型: 从int转换到byte可能会有损失
+		// byte b3 = b1 + b2; //错误: 不兼容的类型: 从 int 转换到 byte 可能会有损失
 
 		System.out.println(b2 + c2);
 		System.out.println(c2 + s1);
@@ -74,9 +74,6 @@ public class AutoConvertDetail {
 
 		// boolean 类型不参与类型的自动转换
 		// int n6 = true; // 错误: 不兼容的类型: boolean无法转换为int
-
-
-
 	}
 }
 

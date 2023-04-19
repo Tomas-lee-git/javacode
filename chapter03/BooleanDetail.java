@@ -17,7 +17,5 @@ public class BooleanDetail {
 		} else {
 			System.out.println("好好准备，还有机会");
 		}
-
-
 	}
 }
